@@ -1,0 +1,2 @@
+# Stack-using-Lists-in-Python
+A Stack is a linear data structure that follows the LIFO (Last-In-First-Out) principle. Stack has one end. It contains only one pointer top pointer pointing to the topmost element of the stack. Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack. Here, implementation of stack using built in data type of Python i.e. List.
